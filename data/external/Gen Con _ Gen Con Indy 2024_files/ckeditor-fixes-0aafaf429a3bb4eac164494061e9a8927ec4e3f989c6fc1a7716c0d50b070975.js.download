@@ -1,0 +1,35 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+jQuery(function(o){if("undefined"!=typeof CKEDITOR)return CKEDITOR.on("dialogDefinition",function(n){var e,i,t;return t=n.data.name,i=n.data.definition,e=n.data.definition.dialog,"link"===t&&(i.getContents("info").get("linkType").items=[["URL","url"],["E-mail","email"]]),e.on("show",function(){return o(document).unbind("keydown").bind("keydown",function(n){if(8===n.keyCode)return"INPUT"===(n.srcElement||n.target).tagName.toUpperCase()})})})});
+
+}
+/*
+     FILE ARCHIVED ON 02:58:05 Sep 27, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:26:09 Aug 15, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.78
+  exclusion.robots: 0.035
+  exclusion.robots.policy: 0.021
+  esindex: 0.017
+  cdx.remote: 21.552
+  LoadShardBlock: 268.701 (3)
+  PetaboxLoader3.datanode: 249.043 (4)
+  load_resource: 138.358
+  PetaboxLoader3.resolve: 104.606
+*/

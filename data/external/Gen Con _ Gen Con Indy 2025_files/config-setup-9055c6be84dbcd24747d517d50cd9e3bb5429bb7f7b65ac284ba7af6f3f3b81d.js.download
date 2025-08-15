@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#ckeditor-bbcode").ckeditor(function(){},{customConfig:"/assets/ckeditor/config-bbcode-c0bb9e200bd84f86e612040aeddb3bc50f513cd77641352c6154aa32bff6931f.js"}),$("#ckeditor-html").ckeditor(function(){},{customConfig:"/assets/ckeditor/config-html-acc32daac7eee9e25eed59fb154ec5a380f5cd510fd7c4babe86803ba558454e.js"})});
